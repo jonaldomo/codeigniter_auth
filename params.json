@@ -1,0 +1,1 @@
+{"name":"Codeigniter auth","tagline":"basic code igniter seed project with authentication","body":"# codeigniter_auth\r\nbasic code igniter seed project with authentication\r\n\r\n```sql\r\nCREATE SCHEMA `codeigniter_auth` DEFAULT CHARACTER SET utf8 ;\r\n```\r\n","google":"UA-64724687-1","note":"Don't delete this file! It's used internally to help with page regeneration."}
